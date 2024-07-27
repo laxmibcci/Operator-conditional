@@ -140,3 +140,4 @@ switch(num) {
     break;
     default : console.log('F');
 }
+
